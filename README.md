@@ -1,20 +1,14 @@
-<h1 align="center">Hi 👋, I'm Illegal Developer</></h1>
+<h1 align="center">Hi 👋, I'm @BeingAnonymous</></h1>
 <h3 align="center">A passionate web and bot developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Advance Auto Filter Bot](https://t.me/IllegalAutoFilterBot)
-
-- 👯 I’m looking to collaborate on **Bot Project**
-
-- 📝 I regularly write articles on [https://efficientintel.online](https://efficientintel.online)
-
-- 💬 Ask me about **Cyber Security, Bot Making, Wordpress,**
-
-- 📫 How to reach me **IllegalDevelopers@gmail.com**
-
-- ⚡ Fun fact **I Think I Am Funny 😂**
-
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/IllegalDevelopers) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/IllegalDevelopers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IllegalDevelopers) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IllegalDevelopers) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Duty_First) 
